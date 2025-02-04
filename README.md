@@ -25,13 +25,13 @@ The user can choose between:
 
 Full Scan:
 
-*Performs a deep nmap vulnerability scan.
+* Performs a deep nmap vulnerability scan.
 
-*Runs brute-force attacks using medusa (for SSH, Telnet, FTP, RDP).
+* Runs brute-force attacks using medusa (for SSH, Telnet, FTP, RDP).
 
-*Extracts CVE identifiers from the scan results.
+* Extracts CVE identifiers from the scan results.
 
-*Uses searchsploit to find known exploits for detected CVEs.
+* Uses searchsploit to find known exploits for detected CVEs.
 
 5️⃣ Post-Scan Options
 The user can:
