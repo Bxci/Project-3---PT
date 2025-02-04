@@ -14,17 +14,24 @@ If using the built-in list, it downloads user_pass.txt from GitHub.
 
 4️⃣ Scan Selection (Basic or Full)
 The user can choose between:
-Basic Scan
 
-Runs nmap scans for service and vulnerability detection.
-Uses masscan for UDP scanning.
-Saves results in text files.
-Full Scan
+* Basic Scan:
 
-Performs a deep nmap vulnerability scan.
-Runs brute-force attacks using medusa (for SSH, Telnet, FTP, RDP).
-Extracts CVE identifiers from the scan results.
-Uses searchsploit to find known exploits for detected CVEs.
+* Runs nmap scans for service and vulnerability detection.
+
+* Uses masscan for UDP scanning.
+
+* Saves results in text files.
+
+Full Scan:
+
+*Performs a deep nmap vulnerability scan.
+
+*Runs brute-force attacks using medusa (for SSH, Telnet, FTP, RDP).
+
+*Extracts CVE identifiers from the scan results.
+
+*Uses searchsploit to find known exploits for detected CVEs.
 
 5️⃣ Post-Scan Options
 The user can:
