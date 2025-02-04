@@ -2,8 +2,8 @@
 
 
 1️⃣ User Verification
-
 The script checks if the user is running it as root. If not, it exits.
+
 2️⃣ Directory Setup
 The user is asked to enter a directory name where all results will be stored.
 If the directory does not exist, it is created.
